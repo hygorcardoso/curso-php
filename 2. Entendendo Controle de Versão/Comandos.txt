@@ -1,5 +1,21 @@
 Comandos de controle de versão.
 
+
+Aula 1.
+
 Clonar repositorio: git clone {url}
 
 Clonar criando pasta: git clone {url} {nomepasta}
+
+Aula 2.
+
+Iniciando repositorio: git init
+
+Adicionando arquivo na staging area: git add .
+
+Criando commit: git commit -m "{texto}"
+
+“staging area” = Uma especie de sala de espera.
+
+
+
