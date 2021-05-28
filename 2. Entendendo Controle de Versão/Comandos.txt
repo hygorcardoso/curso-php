@@ -1,0 +1,5 @@
+Comandos de controle de versão.
+
+Clonar repositorio: git clone {url}
+
+Clonar criando pasta: git clone {url} {nomepasta}
