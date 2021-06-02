@@ -17,5 +17,6 @@ Criando commit: git commit -m "{texto}"
 
 “staging area” = Uma especie de sala de espera.
 
+Aula 3.
 
-
+Atualizar arquivo via site e puxar informações para repositório local: git pull origin master
