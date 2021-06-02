@@ -1,6 +1,5 @@
 Comandos de controle de versão.
 
-
 Aula 1.
 
 Clonar repositorio: git clone {url}
@@ -16,6 +15,10 @@ Adicionando arquivo na staging area: git add .
 Criando commit: git commit -m "{texto}"
 
 “staging area” = Uma especie de sala de espera.
+
+Aula 3.
+
+Explicação sobre github e diferenças do mesmo com o bitbucket.
 
 
 
