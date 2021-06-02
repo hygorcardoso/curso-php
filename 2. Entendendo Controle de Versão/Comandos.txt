@@ -20,5 +20,6 @@ Aula 3.
 
 Explicação sobre github e diferenças do mesmo com o bitbucket.
 
+Aula 4.
 
-
+Atualizar arquivo via site e puxar informações para repositório local: git pull origin master
